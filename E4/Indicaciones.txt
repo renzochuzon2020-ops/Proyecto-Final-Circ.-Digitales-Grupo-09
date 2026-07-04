@@ -1,0 +1,5 @@
+Pre requisito: Node.js
+Instalar dependencias: npm install
+Ejecutar: npm run dev en app.tsx
+Ejecutar puente.py
+Ir a la página creada y probar las funcionalidades con el teclado matricial.
