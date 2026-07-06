@@ -1,1 +1,14 @@
-.
+Ejecutar los siguientes comandos en visual studio code para descargar las librerías necesarias:
+pip install pyserial
+pip install pyautogui
+bpm install
+Pasos para ejecutar el programa:
+1. Abrir la carpeta Codigo_FPGA.
+2. Abrir el archivo .wsf
+3. Abrir el software Quartus para la ejecución del archivo .v y ejecutarlo para la lectura de los comandos
+4. Abrir la carpeta Codigo_Frontend
+5. Abrir el archivo App.tsx que está dentro de la carpeta src y ejecutar el comando:
+   npm run dev
+5. Abrir la web que te proporciona el mismo programa app.tsx
+6. Ejecutar el archivo puente.py que se encuente en la carpeta MiddlewarePython
+7. Visualizar el funcionamiento en la web.
